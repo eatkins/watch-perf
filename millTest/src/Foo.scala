@@ -1,0 +1,8 @@
+package foo
+
+object Foo
+
+
+
+
+
